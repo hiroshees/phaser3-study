@@ -14,6 +14,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "cordova": "^9.0.0",
     "http-server": "^0.11.1"
   }
 }
